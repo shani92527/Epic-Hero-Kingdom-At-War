@@ -1,54 +1,53 @@
-# 🎮 Ninja Fury: Shadow Warrior
+# 🎮 Epic Hero: Kingdom At War
 
 ## 📌 Overview
-Ninja Fury: Shadow Warrior is an action-packed 2D platformer game developed using Unity. The game places players in the role of a legendary ninja warrior on a mission to rescue Koyuki while battling powerful enemies across diverse and visually rich environments.
+Epic Hero: Kingdom At War is an engaging puzzle-based adventure game developed using Unity. The game challenges players to solve strategic pin-pulling puzzles to rescue the princess while navigating through dangerous dungeons filled with enemies and traps.
 
-The game combines fast-paced combat, stealth mechanics, and immersive level design to deliver an engaging gameplay experience.
+Players must think critically, collect treasures, and unlock new heroes while building their own kingdom through progression and rewards.
 
 ---
 
 ## 🚀 Features
-- ⚔️ Intense ninja combat with combo-based attacks  
-- 🥷 Stealth mechanics and precision gameplay  
-- 🌍 7 unique environments (Jungle, Lava, Snow, Samurai battleground)  
-- 👹 Boss battles with unique enemies (Ronin, Tengu, Shogun, Ghost Samurai)  
-- 📜 Skill upgrade system using sacred scrolls  
-- 🎮 Smooth and responsive controls  
-- 💰 In-app purchases and monetization system  
+- 🧩 Strategic pin-pulling puzzle mechanics  
+- 🏰 Kingdom building and progression system  
+- 👑 Rescue the princess through multiple challenging levels  
+- 👹 Enemy encounters and dungeon-based gameplay  
+- 💰 Collect gold, gems, and rewards  
+- 🎁 Daily rewards and unlockable heroes  
+- ⚔️ Select and upgrade elite warriors  
+- 🎮 Smooth and intuitive gameplay controls  
 
 ---
 
 ## 🛠️ Technologies Used
-- Unity (2D Game Development)
-- C#
-- Android SDK
-- Firebase 
-- AdMob (Monetization)
+- Unity (2D Game Development)  
+- C#  
+- Firebase (Analytics & Crashlytics)  
+- AdMob (Monetization)  
+- Android SDK  
 
 ---
 
 ## 🎯 My Role
-- Designed and developed complete gameplay mechanics  
-- Implemented combat system and enemy AI  
-- Developed level progression system and environments  
-- Integrated UI/UX for smooth player interaction  
-- Implemented monetization (Ads & In-App Purchases)  
-- Optimized game performance for Android devices  
+- Designed and developed puzzle mechanics (pin system)  
+- Implemented level progression and difficulty scaling  
+- Developed enemy interaction and game logic  
+- Integrated Firebase for analytics and crash reporting  
+- Implemented AdMob ads for monetization  
+- Designed UI/UX for better user engagement  
+- Optimized performance for Android devices  
 
 ---
 
 ## 📱 Play Store Link
-https://play.google.com/store/apps/details?id=com.rexenterprises.ninjafury
-
----
-
-## ▶️ Gameplay Demo
-https://www.youtube.com/watch?v=JSGF7LwMHfs
+https://play.google.com/store/apps/details?id=com.rexenterprises.herorescuetwo
 
 ---
 
 ## 📸 Screenshots
+(Add your screenshots here after uploading to Screenshots folder)
 
+Example:
 ![Screenshot 1](Screenshots/ss1.png)
 ![Screenshot 2](Screenshots/ss2.png)
 ![Screenshot 3](Screenshots/ss3.png)
@@ -58,24 +57,24 @@ https://www.youtube.com/watch?v=JSGF7LwMHfs
 
 ## 🎓 Teaching Value
 This project can be used as a teaching example for:
-- Game mechanics and player controls  
-- Enemy AI implementation  
-- Level design and progression  
-- Mobile game optimization  
-- Monetization strategies in games  
+- Puzzle game logic and mechanics  
+- Problem-solving and level design  
+- Game state management  
+- UI/UX design in mobile games  
+- Ad integration (AdMob)  
+- Firebase integration in Unity projects  
 
 ---
 
 ## 📊 App Details
-- 📥 Downloads: 50,000+  
-- 📅 Released: Feb 14, 2021  
-- 🔄 Last Update: July 18, 2025  
+- 📥 Downloads: 50+  
+- 📅 Released: July 3, 2022  
+- 🔄 Last Update: Aug 2, 2024  
 - 📱 Platform: Android  
-- 🎮 Genre: Action / Platformer  
+- 🎮 Genre: Puzzle / Strategy  
 
 ---
 
 ## 📩 Contact
 Muhammad Zeeshan  
 📧 shani92527@gmail.com  
-
